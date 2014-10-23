@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+using UnityEngine.UI;
 public class scoreUp : MonoBehaviour {
 
-	public class scoreUp : MonoBehaviour
+
 		 
 		private Text texto;
 	void Start() {

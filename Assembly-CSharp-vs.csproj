@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameControll.cs" />
      <Compile Include="Assets\Scripts\GeneradorScript.cs" />
+     <Compile Include="Assets\Scripts\MenuAScript.cs" />
      <Compile Include="Assets\Scripts\Movimiento_Script.cs" />
      <Compile Include="Assets\Scripts\Raton.cs" />
      <Compile Include="Assets\Scripts\RendererExtension.cs" />
