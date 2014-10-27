@@ -4,10 +4,12 @@ using UnityEngine.UI;
 public class scoreUp : MonoBehaviour {
 
 
-		 
+	private Text textoFinal;
 		private Text texto;
+
 	void Start() {
 		texto = GameObject.Find ("TextoNivel").GetComponent<Text>();
+		textoFinal = GameObject.Find ("textoFinal").GetComponent<Text> ();
 	}
 
 

@@ -9,6 +9,8 @@ public class columnaScript : MonoBehaviour {
 
 	void Update () {
 		movimiento = new Vector3 (vhorizontal, 0, 0);
+		if(!GameControl.dead){
 		transform.Translate (movimiento * Time.deltaTime);
 	}
+}
 }
