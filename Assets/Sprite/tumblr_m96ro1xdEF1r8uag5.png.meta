@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 18a79195133999f4f80fe62709302038
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tumblr_m96ro1xdEF1r8uag5
+    21300002: tumblr_m96ro1xdEF1r8uag5_0
+    21300004: tumblr_m96ro1xdEF1r8uag5_1
+    21300006: tumblr_m96ro1xdEF1r8uag5_2
+    21300008: tumblr_m96ro1xdEF1r8uag5_3
+    21300010: tumblr_m96ro1xdEF1r8uag5_4
+    21300012: tumblr_m96ro1xdEF1r8uag5_5
+    21300014: tumblr_m96ro1xdEF1r8uag5_6
+    21300016: tumblr_m96ro1xdEF1r8uag5_7
+    21300018: tumblr_m96ro1xdEF1r8uag5_8
+    21300020: tumblr_m96ro1xdEF1r8uag5_9
+    21300022: tumblr_m96ro1xdEF1r8uag5_10
+    21300024: tumblr_m96ro1xdEF1r8uag5_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tumblr_m96ro1xdEF1r8uag5_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 402
+        width: 111
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 402
+        width: 132
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 404
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 288
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 284
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 279
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 120
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 8
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_m96ro1xdEF1r8uag5_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 12
+        width: 99
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
